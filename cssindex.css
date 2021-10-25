@@ -1,0 +1,38 @@
+.img {
+    width: 250px;
+    height: 250px;
+  }
+
+.titulo{
+  font: bold 120% monospace;
+}
+p{
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+}
+.armadura{
+  text-shadow: 0 0 10px #5f5f5f, 0 0 12px #aaaaac;
+}
+.armadurap{
+  color: white;
+}
+.navtitulo{
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+  text-shadow: 0 0 20px #ffffff, 0 0 12px #3bfc00;
+}
+.kirito{
+  color: #333333;
+  font-family: Century Gothic, sans-serif;
+  text-shadow: 0 0 20px #ffffff, 0 0 12px #ff0000;
+}
+
+.aaa{
+  border-radius: 7px;
+}
+.row{
+  padding-top: 15px;
+}
+.aleguapeton{
+  padding-top: 20px;
+}
